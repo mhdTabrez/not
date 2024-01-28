@@ -1,5 +1,7 @@
-apple
-ball
-caricket
-biles
-stumps
+ls
+cd
+fs
+fck
+gooe
+good
+bad
