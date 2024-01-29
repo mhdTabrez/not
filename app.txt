@@ -5,3 +5,9 @@ fck
 gooe
 good
 bad
+ls cp vim
+rsync
+yim
+yaml
+tf
+py
